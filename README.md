@@ -41,9 +41,5 @@ python3 Flowdecoder_train.py
 python3 Flowdecoder_val.py
 ```
 
-## Citation
 
-```
-
-```
 
