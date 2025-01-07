@@ -40,6 +40,15 @@ Download the dataset from [here](https://rgbd.cs.princeton.edu/).
 python3 Flowdecoder_train.py
 python3 Flowdecoder_val.py
 ```
-
+## Cite
+```
+@article{xiang2024self,
+  title={Self-Enhanced Feature Fusion for RGB-D Semantic Segmentation},
+  author={Xiang, Pengcheng and Yao, Baochen and Jiang, Zefeng and Peng, Chengbin},
+  journal={IEEE Signal Processing Letters},
+  year={2024},
+  publisher={IEEE}
+}
+```
 
 
