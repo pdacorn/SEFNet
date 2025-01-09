@@ -41,7 +41,7 @@ python3 Flowdecoder_train.py
 python3 Flowdecoder_val.py
 ```
 ## Citation
-If you find this repo useful for your research, please consider citing the paper as follows:
+Xiang, Pengcheng, et al. "Self-Enhanced Feature Fusion for RGB-D Semantic Segmentation." IEEE Signal Processing Letters (2024).
 ```
 @article{xiang2024self,
   title={Self-Enhanced Feature Fusion for RGB-D Semantic Segmentation},
